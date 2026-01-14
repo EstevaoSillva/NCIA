@@ -1,0 +1,10 @@
+
+path: /home/estevaosilva/PycharmProjects/NCIA/AULAS/Aula_58/Projeto_visao/workspace/datasets/ppe_v1 # dataset root dir
+train: images/train  # train images (relative to 'path') 
+val: images/val      # val images (relative to 'path')
+test:  # test images (optional)
+
+names:
+  0: helmet
+  1: vest
+  2: person

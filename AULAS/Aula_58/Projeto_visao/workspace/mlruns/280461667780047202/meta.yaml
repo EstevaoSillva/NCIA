@@ -1,0 +1,6 @@
+artifact_location: file:///home/estevaosilva/PycharmProjects/NCIA/AULAS/Aula_58/Projeto_visao/workspace/mlruns/280461667780047202
+creation_time: 1768316554344
+experiment_id: '280461667780047202'
+last_update_time: 1768316554344
+lifecycle_stage: active
+name: yolo_ppe_finetune
